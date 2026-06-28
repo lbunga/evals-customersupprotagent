@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pydantic
+pandas
+scikit-learn
+python-dotenv
+langsmith
+tqdm
+# optional, standard RAG metrics (version-brittle):
+# ragas
